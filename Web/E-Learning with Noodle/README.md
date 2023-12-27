@@ -1,3 +1,6 @@
+![image](https://github.com/petriQore/CreativeMinds-2024-Qualifier-CTF/assets/123587287/f2bf25f4-2f24-4579-84ab-5a5b1569d2b8)
+
+
 ![image](https://github.com/petriQore/CreativeMinds-2024-Qualifier-CTF/assets/123587287/7cb422d2-5c46-4bde-99b5-7f5fad0c2946)
 
 The credentials are encoded in base64.

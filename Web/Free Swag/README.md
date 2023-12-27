@@ -1,3 +1,6 @@
+![image](https://github.com/petriQore/CreativeMinds-2024-Qualifier-CTF/assets/123587287/a807858b-b1b5-4926-a30a-e50e18f5b92f)
+
+
 My first instinct was to check if they have a filter for negative numbers or strings.  
 Turns out they don't!  
 Purchasing -1 of any item will give us the flag.  
